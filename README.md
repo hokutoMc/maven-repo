@@ -1,4 +1,4 @@
 maven-repo
 ==========
 
-This is maven repository
+This is a maven repository that stores all my mods.
