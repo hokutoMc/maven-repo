@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.hokutomc</groupId>
+  <artifactId>ht_gradle</artifactId>
+  <version>0.1</version>
+  <versioning>
+    <versions>
+      <version>0.1</version>
+    </versions>
+    <lastUpdated>20141029081521</lastUpdated>
+  </versioning>
+</metadata>
