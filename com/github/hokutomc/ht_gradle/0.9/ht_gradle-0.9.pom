@@ -4,20 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.hokutomc</groupId>
   <artifactId>ht_gradle</artifactId>
-  <version>0.8</version>
+  <version>0.9</version>
   <name>ht_gradle</name>
   <description>A minecraft mod that makes modding much easier</description>
-  <licenses>
-    <license>
-      <name>Minecraft Mod Public License</name>
-      <url>http://www.mod-buildcraft.com/MMPL-1.0.txt</url>
-      <distribution>repo</distribution>
-    </license>
-  </licenses>
-  <developers>
-    <developer>
-      <id>hokutoMc</id>
-      <name>hokutoMc</name>
-    </developer>
-  </developers>
 </project>
